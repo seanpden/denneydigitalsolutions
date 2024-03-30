@@ -1,1 +1,1 @@
-<div>Footer goes here.</div>
+<div></div>
