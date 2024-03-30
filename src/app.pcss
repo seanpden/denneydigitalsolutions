@@ -1,0 +1,13 @@
+/* Write your global styles here, in PostCSS syntax */
+@import url('https://fonts.googleapis.com/css?family=Poppins:700|Poppins:400');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root [data-theme="my-custom-theme"] {
+--theme-font-family-base: 'Poppins', sans-serif;
+--theme-font-family-heading: 'Poppins', sans-serif;
+}
+
+html, body { @apply h-full overflow-hidden; }
+
