@@ -19,7 +19,7 @@
 
 <AppBar background="transparent">
 	<svelte:fragment slot="lead">
-		<a class="" href="https://denneydigitalsolutions.com">🌎 DenneyDigitalSolutions</a>
+		<a class="font-bold" href="/">🌎 DenneyDigitalSolutions</a>
 	</svelte:fragment>
 	<svelte:fragment slot="trail">
 		<button type="button" class="btn btn-sm mr-4 !bg-transparent lg:hidden" on:click={openDrawer}>
@@ -32,10 +32,10 @@
 			<!-- 	</svg> -->
 			<!-- </span> -->
 		</button>
-		<button class="hidden lg:block"><a href="/">Home</a></button>
-		<button class="hidden lg:block"><a href="/blog">Blog</a></button>
-		<button class="hidden lg:block"><a href="/about">About</a></button>
-		<button class="hidden lg:block"><a href="/contact">Contact</a></button>
+		<button class="hidden lg:block"><a href="#Home">Home</a></button>
+		<button class="hidden lg:block"><a href="#About">About</a></button>
+		<button class="hidden lg:block"><a href="#Blog">Blog</a></button>
+		<button class="hidden lg:block"><a href="#Contact">Contact</a></button>
 		<LightSwitch class="hidden lg:block" />
 	</svelte:fragment>
 </AppBar>

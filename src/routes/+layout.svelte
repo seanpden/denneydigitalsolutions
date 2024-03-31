@@ -14,8 +14,6 @@
 </Drawer>
 <AppShell>
 	<svelte:fragment slot="header"><Header /></svelte:fragment>
-	<!-- <svelte:fragment slot="sidebarRight"><SidebarRight /></svelte:fragment> -->
-	<!-- ... -->
+	<slot />
 	<svelte:fragment slot="pageFooter"><Footer /></svelte:fragment>
 </AppShell>
-<slot />
