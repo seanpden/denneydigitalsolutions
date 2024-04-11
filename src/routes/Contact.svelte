@@ -11,7 +11,7 @@
 			<div class="relative pl-16">
 				<dt class=" font-semibold leading-7">Email</dt>
 				<dd class="mt-2 leading-7">
-					<a href="mailto:Y7W9v@example.com" class="text-gray-900">Y7W9v@example.com</a>
+					<a href="mailto:Y7W9v@example.com" class="">Y7W9v@example.com</a>
 				</dd>
 			</div>
 			<div class="relative pl-16">
