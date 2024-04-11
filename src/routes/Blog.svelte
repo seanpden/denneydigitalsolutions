@@ -9,7 +9,7 @@
 		>
 			<article class="flex max-w-xl flex-col items-start justify-between">
 				<div class="flex items-center gap-x-4 text-xs">
-					<time datetime="2020-03-16" class="">Mar 16, 2020</time>
+					<time datetime="2020-03-16" class="">2024-04-11</time>
 					<a href="/" class="relative z-10 rounded-full px-3 py-1.5 font-medium">Marketing</a>
 				</div>
 				<div class="group relative">
@@ -27,7 +27,7 @@
 				</div>
 				<div class="relative mt-8 flex items-center gap-x-4">
 					<img
-						src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+						src="https://media.licdn.com/dms/image/C5603AQEmCnECV8F7BA/profile-displayphoto-shrink_400_400/0/1652401479997?e=1718236800&v=beta&t=Iq26PVIfI-pBKzLIsZL0gxSxHTcJnCFvs-K-dPvPw1A"
 						alt=""
 						class="h-10 w-10 rounded-full"
 					/>
@@ -35,10 +35,10 @@
 						<p class="font-semibold">
 							<a href="/">
 								<span class="absolute inset-0"></span>
-								Michael Foster
+								Sean Denney
 							</a>
 						</p>
-						<p class="">Co-Founder / CTO</p>
+						<p class="">Data Engineer</p>
 					</div>
 				</div>
 			</article>

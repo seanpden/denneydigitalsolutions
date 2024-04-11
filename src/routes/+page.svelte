@@ -9,6 +9,6 @@
 
 <About />
 
-<!-- <Blog /> -->
+<Blog />
 
 <!-- <Contact /> -->
