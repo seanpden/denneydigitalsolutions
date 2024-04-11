@@ -47,13 +47,13 @@
 			<article class="flex max-w-xl flex-col items-start justify-between">
 				<div class="flex items-center gap-x-4 text-xs">
 					<time datetime="2020-03-16" class="">2024-04-11</time>
-					<a href="/" class="relative z-10 rounded-full px-3 py-1.5 font-medium">Marketing</a>
+					<a href="/" class="relative z-10 rounded-full px-3 py-1.5 font-medium">Engineering</a>
 				</div>
 				<div class="group relative">
 					<h3 class="mt-3 text-lg font-semibold leading-6">
 						<a href="/">
 							<span class="absolute inset-0"></span>
-							Boost your conversion rate
+							Handle high velocity Data
 						</a>
 					</h3>
 					<p class="mt-5 line-clamp-3 text-sm leading-6">
@@ -84,13 +84,13 @@
 			<article class="flex max-w-xl flex-col items-start justify-between">
 				<div class="flex items-center gap-x-4 text-xs">
 					<time datetime="2020-03-16" class="">2024-04-11</time>
-					<a href="/" class="relative z-10 rounded-full px-3 py-1.5 font-medium">Marketing</a>
+					<a href="/" class="relative z-10 rounded-full px-3 py-1.5 font-medium">User Story</a>
 				</div>
 				<div class="group relative">
 					<h3 class="mt-3 text-lg font-semibold leading-6">
 						<a href="/">
 							<span class="absolute inset-0"></span>
-							Boost your conversion rate
+							The power of a Digital Presence
 						</a>
 					</h3>
 					<p class="mt-5 line-clamp-3 text-sm leading-6">
