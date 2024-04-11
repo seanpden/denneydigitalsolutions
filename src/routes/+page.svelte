@@ -7,7 +7,7 @@
 
 <Home />
 
-<!-- <About /> -->
+<About />
 
 <!-- <Blog /> -->
 
